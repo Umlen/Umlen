@@ -4,7 +4,7 @@
 ---
 
 ## My Skills: 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,html,css,sass)
 
 ---
 
